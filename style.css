@@ -75,7 +75,7 @@ body,
 }
 
 .snake {
-    border: #5a5a5a 1pc dotted;
+    border: #5a5a5a 1px dotted;
 }
 
 .food {
